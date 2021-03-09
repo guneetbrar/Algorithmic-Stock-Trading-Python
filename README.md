@@ -1,7 +1,7 @@
 Algorithmic-Stock-Trading-Python
 
 Libraries used:
-Numpy
-Pandas
-Requests
+Numpy,
+Pandas,
+Requests and
 Math
